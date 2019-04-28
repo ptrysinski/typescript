@@ -1,0 +1,1 @@
+Simple excersises with typescript
